@@ -1,0 +1,28 @@
+import pandas as pd
+from scipy import stats
+
+
+
+# Separate data for males and females
+male_data = df[df['Gender_Male'] == 1]['Decision Influence Index']
+female_data = df[df['Gender_Male'] == 0]['Decision Influence Index']
+
+# Perform t-test
+t_stat, p_value = stats.ttest_ind(male_data, female_data)
+
+# Print results
+print("Male Household Decision Making Index:", male_data.mean())
+print("Female Household Decision Making Index:", female_data.mean())
+print("Male Financial Literacy Std:", male_data.std())
+print("Female Financial Literacy Std:", female_data.std())
+print("Male Financial Literacy Standard Error Mean:", male_data.sem())
+print("Female Financial Literacy Standard Error Mean:", female_data.sem())
+print ("Mean Difference:", male_data.mean()-female_data.mean())
+print("T-statistic:", t_stat)
+print("P-value:", p_value)
+
+# Interpret the results
+if p_value < 0.05:
+    print("There is a significant difference in decision influence index between males and females.")
+else:
+    print("There is no significant difference in decision influence index between males and females.")
