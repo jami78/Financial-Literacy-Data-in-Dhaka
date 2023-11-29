@@ -1,0 +1,129 @@
+Timestamp,Age,Occupation,Location,Education Level,I have a budget and I track my spendings regularly.,I pay my bills on time.,"With 5% inflation, Tk.100 will become Tk.105 next year.",I would rather deposit in a bank with 8% compound interest than in a bank with 9% simple interest for 10 years. (Fixed Account),"If I have adequate money, I would rather invest than spend most of it.","I am saving some money for a potential crisis or a future expenditure (buying real assets, children’s college etc.)",Do you think one should prepare his/her budget on a monthly basis?,Rate your influence on financial decisions within your household.,"Rate the level of influence of other household members (e.g., spouse, parents, siblings) on financial decisions in your household.",Rate your financial knowledge compared to other household members who influence financial decisions.,To what extent do you contribute to your family income? ,To what extent do you contribute in deciding the expenditure areas? ,To what extent do you contribute to saving from the family income? ,Do you feel that the division of financial responsibilities within your household is equitable?,Person Assigned,Financial Literacy Score,Household Decision Making,Decision Influence Index,Gender-Based Decision Index,Gender_Male,Social Class_Middle,Social Class_Upper,Social Class_Upper-Middle
+11/1/2023 22:14,21,Student,Uttara,5,3,5,1,5,5,3,5,4,5,3,2,3,3,3,Rashidul,27,23,15,8,1,1,0,0
+11/1/2023 22:42,28,Service Holder,Uttara sector_6 ,5,5,1,2,1,5,5,5,3,3,3,3,3,5,4,Rashidul,24,24,17,7,1,1,0,0
+11/1/2023 22:59,26,Service Holder,Mirpur ,6,4,4,5,3,5,4,4,3,4,2,3,2,1,2,Rashidul,29,17,11,6,1,1,0,0
+11/1/2023 23:11,28,Service Holder,Mirpur ,6,4,4,2,4,3,5,5,3,5,3,5,2,3,2,Rashidul,27,23,16,7,0,1,0,0
+11/1/2023 23:17,48,Service Holder,Shantinagar,6,5,5,5,5,4,4,5,5,3,3,4,4,5,4,Marzan,33,28,21,7,0,0,1,0
+11/1/2023 23:37,24,Student,Malibagh,5,5,5,5,1,5,5,5,5,4,5,2,4,3,4,Rashidul,31,27,19,8,1,0,0,1
+11/1/2023 23:48,62,Retired,Gandaria ,5,5,5,4,5,5,5,4,5,4,4,5,4,5,3,Rashidul,33,30,23,7,1,1,0,0
+11/1/2023 23:52,27,Service Holder,Dhanmondi,6,4,5,1,5,3,4,4,5,3,3,3,4,2,3,Rashidul,26,23,17,6,0,0,0,1
+11/2/2023 0:00,23,Student,Mohakhali,5,3,5,4,3,5,2,4,1,5,1,1,3,3,1,Maliha,26,15,9,6,0,1,0,0
+11/2/2023 0:01,52,Retired,Mirpur,5,5,5,3,4,2,3,2,4,2,5,2,5,5,4,Rashidul,24,27,21,6,1,0,0,1
+11/2/2023 0:03,43,Homemaker,Uttara,4,5,5,3,4,2,2,2,5,5,5,5,5,5,2,Rashidul,23,32,25,7,0,1,0,0
+11/2/2023 0:03,57,Businessman,Nikunja ,6,2,5,1,5,5,2,3,4,5,5,5,3,5,3,Rashidul,23,30,22,8,1,0,1,0
+11/2/2023 0:04,24,Student,Gazipur,5,3,5,5,3,4,5,4,3,5,4,4,3,4,4,Maliha,29,27,18,9,1,0,0,1
+11/2/2023 0:11,44,Businessman,Mohammadpur ,6,4,5,5,5,5,5,5,5,5,5,5,4,4,4,Rashidul,34,32,23,9,1,1,0,0
+11/2/2023 0:21,29,Student,Lalmatia,6,5,5,5,3,5,4,4,4,4,3,4,4,4,4,Maliha,31,27,19,8,1,1,0,0
+11/2/2023 0:27,32,Service Holder,Mohammadpur ,5,4,4,4,4,5,5,4,5,2,5,5,3,2,2,Rashidul,30,24,20,4,1,1,0,0
+11/2/2023 0:41,78,Retired,Uttara,6,4,5,5,5,2,4,5,5,3,4,2,4,3,5,Rashidul,30,26,18,8,1,0,0,1
+11/2/2023 1:02,20,Student,Lalmatia,4,3,3,3,3,4,4,4,3,3,3,4,4,3,4,Maliha,24,24,17,7,0,1,0,0
+11/2/2023 1:12,20,Student,Lalmatia ,4,3,4,4,3,4,4,4,2,4,2,1,2,2,3,Maliha,26,16,9,7,0,1,0,0
+11/2/2023 1:17,19,Student,Lalmatia,4,3,4,4,5,4,2,5,1,4,2,1,1,2,3,Maliha,27,14,7,7,0,1,0,0
+11/2/2023 1:28,25,Engineer,tejgaon,5,4,5,3,4,5,4,5,3,5,4,2,1,3,3,Maliha,30,21,13,8,1,1,0,0
+11/2/2023 5:25,20,Student,"Arambagh,Motijheel",4,3,5,1,5,5,5,5,4,5,3,2,1,1,4,Rashidul,29,20,11,9,1,1,0,0
+11/2/2023 8:11,25,Service Holder,Baridhara DOHS ,6,3,4,4,2,4,4,5,3,4,1,2,2,2,3,Rashidul,26,17,10,7,0,0,0,1
+11/2/2023 9:20,53,Businessman,Mohammadpur,3,2,4,5,5,3,5,4,5,3,4,5,4,4,2,Sami,28,27,22,5,1,1,0,0
+11/2/2023 9:24,48,Businessman,Tejgaon,4,5,5,3,5,4,5,5,4,4,4,5,5,4,1,Sami,32,27,22,5,1,1,0,0
+11/2/2023 9:33,28,Research assistant ,"Greensboro, NC, USA",6,3,4,5,5,4,3,5,3,5,3,2,2,4,3,Marzan,29,22,14,8,0,1,0,0
+11/2/2023 9:43,48,Service Holder,Uttara,3,4,2,3,4,4,4,2,5,1,5,5,5,3,1,Rashidul,23,25,23,2,1,0,0,0
+11/2/2023 9:48,42,Businessman,Banani,6,1,5,3,4,4,3,3,3,3,4,4,2,2,3,Rashidul,23,21,15,6,1,0,1,0
+11/2/2023 11:24,27,Service Holder,"Dhaka cantonment,dhaka",6,1,1,2,1,1,2,2,1,1,1,1,1,2,3,Rashidul,10,10,6,4,0,1,0,0
+11/2/2023 13:37,63,Retired,"Sciencelab, Dhanmondi ",5,3,5,1,3,3,3,5,3,3,3,3,2,3,5,Rashidul,23,22,14,8,1,1,0,0
+11/2/2023 13:45,26,Student,Dhaka Cantonment ,5,3,5,5,3,5,5,4,4,4,4,3,3,4,3,Maliha,30,25,18,7,0,0,0,1
+11/2/2023 13:57,53,High school Teacher,Mirpur,5,3,5,5,4,4,5,5,5,5,4,4,5,4,5,Marzan,31,32,22,10,0,1,0,0
+11/2/2023 13:59,23,Student,Mohammadpur ,5,3,5,1,1,2,5,5,4,4,3,1,3,4,4,Maliha,22,23,15,8,0,1,0,0
+11/2/2023 14:01,26,Student,Tejgaon ,6,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Maliha,35,35,25,10,0,0,0,1
+11/2/2023 14:06,23,Student,Mohammedpur,5,5,4,3,5,5,4,5,4,4,4,3,4,3,4,Maliha,31,26,18,8,1,1,0,0
+11/2/2023 14:10,30,Service Holder,Motijheel,2,2,5,5,5,2,2,4,3,3,3,4,1,4,3,Marzan,25,21,15,6,1,0,0,0
+11/2/2023 14:18,28,Service Holder,Dhanmondi ,5,3,2,4,3,4,5,5,3,3,4,3,3,4,2,Maliha,26,22,17,5,0,1,0,0
+11/2/2023 14:19,22,Student,Lalmatia,5,4,5,3,3,5,4,5,3,4,3,2,3,3,3,Maliha,29,21,14,7,0,0,0,1
+11/2/2023 14:22,35,Service Holder,Kafrul,5,5,5,5,4,4,5,5,5,4,4,5,4,4,4,Maliha,33,30,22,8,1,1,0,0
+11/2/2023 14:26,48,Homemaker,Motijheel,5,4,5,2,4,4,5,5,4,5,2,1,4,4,5,Rashidul,29,25,15,10,0,0,0,1
+11/2/2023 14:27,26,Service Holder,Mohammadpur,5,3,5,4,5,5,2,4,4,5,5,3,3,3,4,Marzan,28,27,18,9,1,1,0,0
+11/2/2023 14:33,31,Service Holder,Dhanmondi,6,4,5,4,1,4,5,4,4,4,4,4,4,4,4,Maliha,27,28,20,8,0,0,0,1
+11/2/2023 14:33,40,Businessman,Lalmatia,6,5,4,4,3,5,4,4,4,3,3,4,4,4,5,Maliha,29,27,19,8,1,0,0,1
+11/2/2023 14:38,18,Student,Mohammadpur ,4,3,4,3,3,4,4,4,3,3,3,3,3,3,3,Maliha,25,21,15,6,0,1,0,0
+11/2/2023 14:40,35,Service Holder,Mirpur,1,3,3,2,3,2,2,4,3,4,2,4,4,3,3,Marzan,19,23,16,7,0,0,0,0
+11/2/2023 14:43,22,Student,Mirpur,5,4,5,3,3,1,4,5,3,4,1,1,3,3,3,Maliha,25,18,11,7,0,1,0,0
+11/2/2023 15:30,53,Businessman,Khilkhet,5,3,4,1,5,5,4,4,4,4,5,5,1,3,3,Rashidul,26,25,18,7,1,1,0,0
+11/2/2023 15:40,55,Service Holder,Gopalgonj ,5,5,5,5,5,5,5,5,5,3,4,5,3,3,3,Maliha,35,26,20,6,1,0,0,1
+11/2/2023 15:41,25,Unemployed,Mirpur,5,5,3,2,4,4,1,5,1,5,3,1,1,1,5,Rashidul,24,17,7,10,1,1,0,0
+11/2/2023 16:18,37,Service Holder,Jamalpur ,6,3,5,4,3,4,4,5,3,4,3,2,3,2,5,Marzan,28,22,13,9,1,0,0,1
+11/2/2023 16:47,52,Homemaker,Uttara,6,5,4,5,4,5,5,4,5,3,4,3,5,5,2,Ramisha,32,27,22,5,0,1,0,0
+11/2/2023 16:50,46,Service Holder,Uttara ,6,4,5,1,5,4,5,4,5,1,4,5,5,5,1,Ramisha,28,26,24,2,0,1,0,0
+11/2/2023 16:58,22,Student,Mirpur ,5,5,5,5,3,4,5,5,4,5,3,3,3,3,3,Maliha,32,24,16,8,0,1,0,0
+11/2/2023 16:59,55,Service Holder,Uttara,6,4,5,1,4,4,4,5,3,4,3,4,4,4,4,Ramisha,27,26,18,8,1,1,0,0
+11/2/2023 17:03,54,Service Holder,Dhanmondi ,6,2,3,1,4,2,4,4,5,5,5,4,4,4,5,Ramisha,20,32,22,10,1,0,0,1
+11/2/2023 17:05,55,Service Holder,Mirpur,5,4,5,1,5,4,5,5,5,4,5,5,5,4,5,Marzan,29,33,24,9,1,0,0,1
+11/2/2023 17:26,22,Student,Uttara,4,4,5,1,4,4,5,4,4,4,2,2,2,2,5,Ramisha,27,21,12,9,1,0,0,1
+11/2/2023 17:36,23,Student,"Uttara, Dhaka",5,3,2,1,5,5,3,4,3,2,3,3,3,3,4,Ramisha,23,21,15,6,1,1,0,0
+11/2/2023 17:45,23,Student,"Zigatola,Dhanmondi",5,5,5,5,1,5,4,4,4,4,4,3,3,3,3,Ramisha,29,24,17,7,0,1,0,0
+11/2/2023 18:22,51,Homemaker,Mohammadpur ,6,3,5,4,2,5,5,4,4,5,2,1,3,4,2,Ramisha,28,21,14,7,0,0,0,1
+11/2/2023 18:30,55,Service Holder,Uttara ,5,4,3,2,2,4,5,5,5,1,4,4,4,5,2,Ramisha,25,25,22,3,0,1,0,0
+11/2/2023 18:31,45,Homemaker,khilgaon ,5,5,5,5,4,4,4,3,5,5,4,1,3,4,3,Marzan,30,25,17,8,0,0,0,1
+11/2/2023 18:32,38,Service Holder,Uttara ,6,3,4,4,4,3,4,4,4,5,3,3,4,3,5,Ramisha,26,27,17,10,0,1,0,0
+11/2/2023 18:32,52,Service Holder,khilgaon ,5,3,3,5,5,5,5,3,5,5,5,5,4,5,5,Marzan,29,34,24,10,1,0,0,1
+11/2/2023 18:34,56,Service Holder,Uttara ,6,3,4,3,2,2,3,4,2,5,2,2,4,1,1,Ramisha,21,17,11,6,0,1,0,0
+11/2/2023 18:36,59,Service Holder,Uttara ,6,5,4,2,5,5,5,5,3,5,4,2,3,4,3,Ramisha,31,24,16,8,0,0,0,1
+11/2/2023 18:40,52,Service Holder,Uttara ,5,4,3,4,4,4,5,5,3,5,4,1,4,4,4,Ramisha,29,25,16,9,0,0,0,1
+11/2/2023 18:41,45,Service Holder,Mirpur,4,3,2,2,4,4,3,4,3,4,2,2,3,3,3,Marzan,22,20,13,7,0,1,0,0
+11/2/2023 18:51,21,Student,Mohammadpur,4,3,5,5,3,5,2,5,2,4,2,1,1,2,1,Maliha,28,13,8,5,0,0,0,1
+11/2/2023 19:00,42,Homemaker,Uttara ,6,3,5,3,4,5,5,4,3,3,3,4,3,4,2,Jami,29,22,17,5,0,1,0,0
+11/2/2023 19:09,26,Student,banani,5,5,5,3,3,5,5,5,4,3,4,3,4,3,5,Maliha,31,26,18,8,0,0,0,1
+11/2/2023 19:43,60,Businessman,Uttara,4,1,3,1,5,5,1,5,5,3,5,5,5,5,2,Ramisha,21,30,25,5,1,0,0,1
+11/2/2023 19:45,35,Service Holder,Dhanmondi,5,4,5,1,5,1,5,2,3,4,3,3,2,2,3,Maliha,23,20,13,7,0,0,1,0
+11/2/2023 20:55,26,Businessman,Tejgaon,5,2,2,1,5,5,5,5,3,4,5,4,2,2,4,Maliha,25,24,16,8,1,1,0,0
+11/2/2023 21:00,24,Student,Uttara,5,4,5,1,5,5,1,4,4,3,4,4,3,4,3,Ramisha,25,25,19,6,1,0,0,1
+11/2/2023 21:03,58,Service Holder,Uttara,6,4,4,1,5,5,5,4,4,5,4,4,4,4,3,Marzan,28,28,20,8,0,0,1,0
+11/2/2023 22:11,57,Businessman,"Uttara,Dhaka",6,3,5,4,4,3,3,5,3,5,5,5,5,5,5,Jami,27,33,23,10,1,0,0,1
+11/2/2023 22:22,27,Service Holder,Mohammadpur,6,5,5,4,5,5,5,5,4,5,4,4,4,4,4,Maliha,34,29,20,9,0,0,0,1
+11/2/2023 23:23,22,Student,Uttara,5,4,4,4,3,4,3,4,4,5,4,3,4,3,4,Ramisha,26,27,18,9,0,0,0,1
+11/2/2023 23:37,22,Student,Lalmatia,5,4,3,1,4,1,2,4,4,4,1,1,3,1,2,Maliha,19,16,10,6,0,1,0,0
+11/3/2023 1:54,22,Student,Mirpur DOHS ,5,4,5,5,4,4,5,4,4,3,4,5,5,3,4,Rashidul,31,28,21,7,1,1,0,0
+11/3/2023 12:44,43,Service Holder,Lalmatia ,4,4,2,3,5,3,4,4,5,3,5,5,5,2,3,Sami,25,28,22,6,1,1,0,0
+11/3/2023 12:51,56,Service Holder,Toronto,4,5,5,1,5,4,5,5,4,4,4,4,4,3,4,Sami,30,27,19,8,0,0,0,1
+11/3/2023 12:59,54,Service Holder,Lalmatia ,6,5,5,1,5,4,5,5,4,4,4,5,4,5,4,Sami,30,30,22,8,1,0,0,1
+11/3/2023 17:11,21,Student,Mohammadpur ,5,5,5,5,5,5,5,5,4,5,1,3,3,3,4,Maliha,35,23,14,9,0,0,1,0
+11/3/2023 17:29,22,Student,Agargaon,5,2,5,3,3,5,1,5,3,5,5,1,1,2,5,Maliha,24,22,12,10,0,1,0,0
+11/3/2023 17:33,70,Businessman,Mohammadpur,1,1,3,2,1,4,1,4,5,4,2,4,5,1,1,Sami,16,22,17,5,1,0,0,0
+11/3/2023 17:59,55,Businessman,Mohammadpur,1,1,2,2,1,5,2,2,4,4,2,5,4,3,3,Jami,15,25,18,7,1,0,0,0
+11/3/2023 18:08,52,Businessman,Mohammadpur,1,1,5,2,1,5,2,5,5,1,2,4,4,2,2,Jami,21,20,17,3,1,0,0,0
+11/3/2023 18:09,37,Homemaker,Tejgaon,5,5,5,5,4,4,5,5,5,5,5,1,1,1,4,Maliha,33,22,13,9,0,0,0,1
+11/3/2023 20:00,24,Service Holder,Mirpur,5,2,2,5,4,2,5,5,4,4,4,2,4,4,3,Marzan,25,25,18,7,1,1,0,0
+11/3/2023 20:04,50,Homemaker,Mirpur,5,4,4,2,4,4,4,4,5,4,3,1,5,5,5,Marzan,26,28,19,9,0,0,0,1
+11/3/2023 20:36,47,Service Holder,Uttara ,6,2,1,4,5,2,3,3,2,5,3,2,5,2,4,Ramisha,20,23,14,9,0,0,0,1
+11/3/2023 20:38,33,Service Holder,Uttara ,5,5,5,2,3,5,5,5,4,3,4,4,3,4,4,Ramisha,30,26,19,7,1,1,0,0
+11/3/2023 20:40,55,Homemaker,Uttara ,4,4,3,3,5,4,5,5,4,3,4,2,4,5,2,Ramisha,29,24,19,5,0,1,0,0
+11/3/2023 20:44,63,Homemaker,Niketan,5,4,5,4,1,4,4,5,2,5,3,1,4,3,1,Ramisha,27,19,13,6,0,1,0,0
+11/3/2023 20:46,51,Service Holder,Nikunja 1,5,5,5,1,5,4,5,5,5,4,4,5,4,4,5,Ramisha,30,31,22,9,1,1,0,0
+11/3/2023 20:48,47,Businessman,Mohakhali,5,3,2,4,5,2,3,4,4,4,4,5,4,2,3,Ramisha,23,26,19,7,1,1,0,0
+11/3/2023 20:50,35,Businessman,Banani,5,5,5,1,5,5,5,4,4,3,5,5,4,5,3,Ramisha,30,29,23,6,1,0,0,1
+11/3/2023 20:52,72,Service Holder,Banani ,6,5,5,1,5,4,5,5,5,3,5,5,3,4,5,Ramisha,30,30,22,8,1,0,1,0
+11/3/2023 20:54,29,Service Holder,Banani,5,5,5,1,5,5,5,5,5,4,4,4,2,4,3,Ramisha,31,26,19,7,1,1,0,0
+11/3/2023 21:03,56,Service Holder,Uttara ,6,5,4,1,5,4,5,4,4,4,5,5,2,4,4,Ramisha,28,28,20,8,1,0,0,1
+11/3/2023 21:04,58,Service Holder,Banani ,6,5,5,1,5,5,5,5,5,4,5,5,4,5,2,Ramisha,31,30,24,6,1,0,0,1
+11/4/2023 16:43,22,Student,Mirpur,5,1,1,3,5,4,4,4,1,4,1,1,2,1,3,Rashidul,22,13,6,7,1,1,0,0
+11/4/2023 17:32,23,Student,Uttara,5,4,5,1,5,5,4,5,5,5,4,3,4,3,4,Ramisha,29,28,19,9,0,0,0,1
+11/4/2023 16:57,38,Service Holder,Uttara,2,2,2,4,1,1,1,3,1,5,1,2,2,3,1,Rashidul,14,15,9,6,0,0,0,0
+11/4/2023 17:52,24,Student,Uttara ,5,3,4,5,1,4,2,4,4,4,5,3,4,3,3,Ramisha,23,26,19,7,1,0,0,1
+11/4/2023 19:36,59,Service Holder,Rayer Bazar,1,1,2,3,4,3,3,4,5,3,3,5,5,2,3,Sami,20,26,20,6,1,0,0,0
+11/4/2023 21:05,36,Housemaid,Uttara ,3,4,3,4,2,4,5,4,4,4,3,4,4,4,5,Ramisha,26,28,19,9,0,0,0,0
+11/4/2023 21:07,39,Housemaid,Uttara ,3,4,2,5,1,4,3,3,5,1,4,5,4,3,1,Ramisha,22,23,21,2,0,0,0,0
+11/4/2023 21:08,53,Housemaid,Uttara ,2,2,1,3,2,3,4,2,5,2,3,4,5,5,1,Ramisha,17,25,22,3,0,0,0,0
+11/4/2023 21:10,34,Housemaid ,Uttara ,3,4,4,3,4,4,5,4,4,5,4,4,4,4,5,Ramisha,28,30,20,10,0,0,0,0
+11/4/2023 21:12,46,Housemaid,Uttara ,3,2,2,3,4,2,2,4,5,1,4,5,4,5,1,Ramisha,19,25,23,2,0,0,0,0
+11/4/2023 22:30,56,Service Holder,Rajarbag,6,3,3,5,4,4,5,5,5,4,5,5,3,3,2,Ramisha,29,27,21,6,1,1,0,0
+11/4/2023 23:58,52,Homemaker,Tangail,3,3,5,1,4,2,4,3,4,3,4,1,4,2,3,Ramisha,22,21,15,6,0,1,0,0
+11/5/2023 0:06,63,Service Holder,New market,6,5,5,5,3,5,5,3,5,2,5,5,4,5,3,Ramisha,31,29,24,5,1,1,0,0
+,57,Businessman,New Eskaton,6,3,4,4,4,3,5,5,4,5,4,4,5,4,3,,28,29,21,8,1,1,0,0
+,22,Student,Sher E Bangla Nogor,5,3,4,1,5,2,5,5,3,2,2,1,3,1,2,,25,14,10,4,0,0,0,1
+,22,Student,Dhanmondi,5,4,4,3,2,3,4,3,5,3,3,3,2,1,4,,23,21,14,7,0,0,0,1
+,23,Student,Bashundhara,5,2,3,5,1,2,4,5,2,1,1,1,3,5,2,,22,15,12,3,1,1,0,0
+,20,Student,Shantinagar,5,3,4,3,1,4,4,4,3,4,3,3,3,3,4,,23,23,15,8,1,1,0,0
+,20,Student,Uttara,5,4,5,5,3,5,4,4,2,5,1,1,1,2,3,,30,15,7,8,0,0,0,1
+,21,Student,Uttara,5,5,5,1,5,5,3,5,2,5,4,1,2,2,4,,29,20,11,9,1,1,0,0
+,43,Freelancer/Contractor,Tejgaon,5,4,4,4,3,5,3,5,3,4,4,4,4,5,3,,28,27,20,7,1,0,1,0
+,22,Student,Mohammadpur,5,5,3,5,3,3,4,5,3,3,3,3,3,3,5,,28,23,15,8,0,1,0,0
+,24,Officer,Lalmatia,5,4,4,1,1,5,5,5,3,3,3,2,2,3,2,,25,18,13,5,1,0,0,1
+,49,Homemaker,Uttara,6,5,5,5,3,4,4,5,4,4,4,2,3,2,5,,31,24,15,9,0,0,1,0
+,21,Student,Uttara,5,2,4,4,4,4,4,3,3,5,2,1,1,1,3,,25,16,8,8,0,0,1,0
