@@ -1,0 +1,48 @@
+import numpy as np
+
+# Define the conditions
+conditions = [
+    (df['Social Class_Upper'] == 1),
+    (df['Social Class_Upper-Middle'] == 1),
+    (df['Social Class_Middle'] == 1),
+    (df['Social Class_Upper'].eq(0) & df['Social Class_Upper-Middle'].eq(0) & df['Social Class_Middle'].eq(0))
+]
+
+# Define the values to be assigned based on the conditions
+values = ['Upper', 'Upper-Middle', 'Middle', 'Lower']
+
+# Create the new 'Social_Class' column
+df['Social_Class'] = np.select(conditions, values, default='Unknown')
+import pandas as pd
+from scipy import stats
+from scipy.stats import f_oneway
+
+
+
+
+# Separate data for males and females
+middle_data = df[df['Social_Class'] == 'Middle']['Financial Literacy Score']
+upper_data = df[df['Social_Class'] == 'Upper']['Financial Literacy Score']
+um_data = df[df['Social_Class'] == 'Upper-Middle']['Financial Literacy Score']
+lower_data = df[df['Social_Class'] == 'Lower']['Financial Literacy Score']
+# Perform t-test
+f_statistic, p_value = f_oneway(middle_data, upper_data,um_data,lower_data)
+
+# Print results
+print("Upper Class Financial Literacy Score:", upper_data.mean())
+print("Upper-Middle Class Financial Literacy Score:", um_data.mean())
+print("Middle Class Financial Literacy Score:", middle_data.mean())
+print("Lower Class Financial Literacy Score:", lower_data.mean())
+print("F-Statistic:", f_statistic)
+print("P-Value:", p_value)
+# Interpret the results
+if p_value < 0.05:
+    print("There is a significant difference in Financial Literacy Scores among the social classes.")
+else:
+    print("There is no significant difference in Financial Literacy Scores among the social classes.")
+from statsmodels.stats.multicomp import pairwise_tukeyhsd
+# Tukey's HSD test for post hoc analysis
+tukey_result = pairwise_tukeyhsd(df['Financial Literacy Score'], df['Social_Class'])
+
+# Print results
+print(tukey_result)
